@@ -89,3 +89,15 @@ Esto demuestra la importancia de comparar arquitecturas antes de elegir un model
 ---
 
 ## 📁 Estructura del Proyecto
+
+challenge_telecomX_2/
+│
+├── Challenge_2_telecomX.ipynb
+├── DataFrame ()
+├── README.md
+
+
+
+  ---
+
+### 👨‍💻 Hecho por ECastro08
