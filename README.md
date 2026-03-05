@@ -90,13 +90,14 @@ Esto demuestra la importancia de comparar arquitecturas antes de elegir un model
 
 ## 📁 Estructura del Proyecto
 
+```bash
 challenge_telecomX_2/
 │
 ├── Challenge_2_telecomX.ipynb
-├── DataFrame ()
+├── DataFrame (df_telecom.csv)
 ├── README.md
 
-
+```
 
   ---
 
